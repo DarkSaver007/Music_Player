@@ -19,6 +19,9 @@ A music player built with React.js, offering a customizable and user-friendly au
 - Developers interested in building interactive UIs
 - Music lovers who want to create their own audio player
 
+## 🚀 Live Demo
+Check out the live version here: [Music Player](https://music-player-amber-zeta.vercel.app/)
+
 ## 📌 Contributing
 Feel free to fork the repository and enhance the project with additional features. Pull requests are welcome!
 
